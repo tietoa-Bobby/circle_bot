@@ -1,0 +1,5 @@
+discord.py
+opencv-python-headless
+numpy
+apscheduler
+aiohttp
